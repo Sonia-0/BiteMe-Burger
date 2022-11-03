@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Bite_Me_Burger
+namespace BiteMeBurger
 {
     public class Program
     {

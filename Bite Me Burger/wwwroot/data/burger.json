@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Burger",
+    "image": "https://i.ytimg.com/vi/Jjc_ufI7360/maxresdefault.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "Le Pigeon Burger",
+    "image": "https://s3.amazonaws.com/wapopartners.com/wweek-wp/wp-content/uploads/2015/10/26141147/Le-Pigeon-Burger.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Luger Burger",
+    "image": "https://cdn.vox-cdn.com/thumbor/X0TBkNcWodQfM0G67Dgosaj9IwE=/0x0:1999x1333/1200x800/filters:focal(883x522:1201x840)/cdn.vox-cdn.com/uploads/chorus_image/image/60894983/peterluger_burger.0.0.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chargrilled Burger",
+    "image": "https://www.seriouseats.com/thmb/ZeTuAUpxl9rnJ7UIaUQUAxpD3nY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__07__20100408-spottedpigburger-9e313fd41c5c4b3780744c513b4d854a.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Turkey Special Burger",
+    "image": "https://i0.wp.com/www.makandhercheese.com/wp-content/uploads/2019/06/fullsizeoutput_7c87.jpeg?fit=3024%2C4032"
+
+  },
+  {
+    "id": 6,
+    "name": " Black Bean burger",
+    "image": "https://www.hummusapien.com/wp-content/uploads/2016/05/black-bean-burgers-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Portobello mushroom burger",
+    "image": "https://www.halfbakedharvest.com/wp-content/uploads/2016/08/Cheddar-Bacon-Portobello-Mushroom-Burger-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Hamburger",
+    "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2020/06/Classic-Juicy-Hamburger-Recipe-Square.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tomato Stuffed Burger",
+    "image": "https://charlotteslivelykitchen.com/wp-content/uploads/2016/07/Homemade-Stuffed-Cheese-Burgers-11.jpg"
+  }
+]

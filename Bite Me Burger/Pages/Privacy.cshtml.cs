@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Bite_Me_Burger.Pages
+namespace BiteMeBurger.Pages
 {
     public class PrivacyModel : PageModel
     {
